@@ -1,4 +1,5 @@
 ﻿<img width="1536" height="1024" alt="ChatGPT Image Sep 22, 2025, 06_03_26 PM" src="https://github.com/user-attachments/assets/b6a6a73f-d999-47c2-ac8f-a81aa4ce3b8c" />
+ 
 # PDF Unlocker Script (Python 3.13 Compatible)
 
 A **powerful and lightweight Python script** to fully unlock PDF files using the **user/open password**, removing all restrictions including reading, editing, printing, and copying. This script is fully compatible with **Python 3.13**, supports **AES-encrypted PDFs**, and handles **Unicode/non-ASCII filenames** including Bangla or other international characters.
@@ -170,4 +171,5 @@ This script is **free to use and modify**. Attribution appreciated but not requi
 * Maintains simplicity and reliability.
 
 **Note:** Always respect copyright and legal restrictions when unlocking PDF files. This tool should only be used on files you have rights to access.
+
 
